@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: React-native-admob-integration
+title: SwiftLanguageTranslation
 email: manishhtrivedi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Learn how to integrate AdMob into your React Native app for iOS and Android without build issues. This step-by-step guide ensures a smooth setup, resolving common Android errors for seamless ad monetization.
+  Lear how to create a Swift package. A lightweight and easy-to-integrate Swift package for iOS that enables real-time language translation using the DeepL API. Built with simplicity and scalability in mind, this package supports multiple languages and is ideal for apps requiring high-quality translations.
 baseurl: "" # the subpath of your site, e.g. /react-native-admob-integration
 url: "" # the base hostname & protocol for your site, e.g. https://github.com/mhrrt.github.io/
 twitter_username: mhrrt
 github_username:  mhrrt
 
-#baseurl: "/react-native-admob-integration"
+#baseurl: "/SwiftLanguageTranslation"
 baseurl: ""
 markdown: kramdown
 highlighter: rouge
